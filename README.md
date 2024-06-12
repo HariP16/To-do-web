@@ -8,6 +8,7 @@ The project consists of the following files:
 - index.html: The home page.
 - styles.css: The CSS file containing styles for the site.
 - index.js: The js file describing behaviour for the page.
+- desk.jpeg: The background image for the page.
 
 
 ## How to Use
